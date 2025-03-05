@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:formularios\\testchiyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|c:\\users\\marina constanza\\documents\\github\\finalsimmarzo\\ejercicio1final\\formularios\\pruebastxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\formularios\\pruebastxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:formularios\\pruebastxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -34,9 +38,9 @@
               "Title": "TestChiYKS.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\TestChiYKS.cs",
               "RelativeDocumentMoniker": "Formularios\\TestChiYKS.cs",
-              "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\TestChiYKS.cs",
-              "RelativeToolTip": "Formularios\\TestChiYKS.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAAAAwOAAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\TestChiYKS.cs*",
+              "RelativeToolTip": "Formularios\\TestChiYKS.cs*",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAPEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:17:29.824Z",
               "EditorCaption": ""
@@ -63,8 +67,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:03:01.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:03:01.285Z"
             }
           ]
         }

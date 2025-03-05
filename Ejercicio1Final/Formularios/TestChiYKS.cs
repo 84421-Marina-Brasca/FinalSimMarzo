@@ -230,11 +230,22 @@ namespace Ejercicio1Final.Formularios
                 PoAc += Po;
                 if (distribucionLocal == 0) // Distribucion Normal
                 {
-                    decimal anchoIntervalo =  hasta[i] - desde[i];
-                    //calculo la prob esperada
-                    var e = ((-0.5) * Math.Pow((double)(((anchoIntervalo/2) - media) / parametro), 2));
-                    Pe = (decimal) ((Math.Exp(e) / ((double) parametro * Math.Sqrt(2 * Math.PI))) * (double) anchoIntervalo);
+                    //decimal anchoIntervalo =  hasta[i] - desde[i];
+                    ////calculo la prob esperada
+                    //var e = ((-0.5) * Math.Pow((double)(((anchoIntervalo/2) - media) / parametro), 2));
+                    //Pe = (decimal) ((Math.Exp(e) / ((double) parametro * Math.Sqrt(2 * Math.PI))) * (double) anchoIntervalo);
                     PeAc += Pe;
+                    if (distribucionLocal == 0) // Distribución Normal
+                    {
+                        decimal anchoIntervalo = hasta[i] - desde[i];
+
+                        decimal puntoMedio = (desde[i] + anchoIntervalo) / 2;
+                        // Calcula el exponente usando el punto medio
+                        var e = -0.5 * Math.Pow((double)((puntoMedio - media) / parametro), 2);
+                        // Aproximación de la probabilidad en el intervalo
+                        Pe = (decimal)((Math.Exp(e) / ((double)parametro * Math.Sqrt(2 * Math.PI))) * (double)anchoIntervalo);
+                        PeAc += Pe;
+                    }
 
                 }
 
