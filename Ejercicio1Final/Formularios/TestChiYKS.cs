@@ -1,4 +1,5 @@
 ﻿using MathNet.Numerics.Distributions;
+using MathNet.Numerics.Statistics;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 
 namespace Ejercicio1Final.Formularios
 {
@@ -234,19 +236,32 @@ namespace Ejercicio1Final.Formularios
                     ////calculo la prob esperada
                     //var e = ((-0.5) * Math.Pow((double)(((anchoIntervalo/2) - media) / parametro), 2));
                     //Pe = (decimal) ((Math.Exp(e) / ((double) parametro * Math.Sqrt(2 * Math.PI))) * (double) anchoIntervalo);
-                    PeAc += Pe;
+ 
+                    //if (distribucionLocal == 0) // Distribución Normal
+                    //{
+                    //    decimal anchoIntervalo = hasta[i] - desde[i];
+
+                    //    //decimal puntoMedio = (desde[i] + hasta[i]) / 2;
+                    //    // Calcula el exponente usando el punto medio
+                    //    var eHasta = -0.5 * Math.Pow((double)((hasta[i] - media) / parametro), 2);
+                    //    var PeHasta = (decimal)((Math.Exp(eHasta) / ((double)parametro * Math.Sqrt(2 * Math.PI))));
+                    //    var eDesde = -0.5 * Math.Pow((double)((desde[i] - media) / parametro), 2);
+                    //    var PeDesde = (decimal)((Math.Exp(eDesde) / ((double)parametro * Math.Sqrt(2 * Math.PI))));
+                    //    Pe = Math.Abs( PeHasta - PeDesde);
+                    //    //* (double)anchoIntervalo);
+                    //    PeAc += Pe;
+                    //}
                     if (distribucionLocal == 0) // Distribución Normal
                     {
                         decimal anchoIntervalo = hasta[i] - desde[i];
-
-                        decimal puntoMedio = (desde[i] + anchoIntervalo) / 2;
+                        // Calcula el punto medio correcto
+                        decimal puntoMedio = (desde[i] + hasta[i]) / 2;
                         // Calcula el exponente usando el punto medio
                         var e = -0.5 * Math.Pow((double)((puntoMedio - media) / parametro), 2);
                         // Aproximación de la probabilidad en el intervalo
                         Pe = (decimal)((Math.Exp(e) / ((double)parametro * Math.Sqrt(2 * Math.PI))) * (double)anchoIntervalo);
                         PeAc += Pe;
                     }
-
                 }
 
                 else
@@ -261,8 +276,45 @@ namespace Ejercicio1Final.Formularios
                 dgvKS.Rows.Add(Math.Round(desde[i], 4), Math.Round(hasta[i], 4), Math.Round(fo[i], 4), Math.Round(fe[i], 4), Math.Round(Po, 4), Math.Round(PoAc, 4), Math.Round(Pe, 4), Math.Round(PeAc, 4), Math.Round(KS, 4), Math.Round(MaxKS,4));
             }
         }
+        //private double CalculoFrecuenciaEsperada(double LimSuperior, double LimInferior, double n)
+        //{
+        //    // para mejorar rendimiento pasarlo por parametro
+        //    double media = (double)listaLocal.Average();
+        //    double desviacion = listaLocal.StandardDeviation();
+        //    //double n = Convert.ToDouble(nudCantidad.Value);
 
-        private void CargarFrecuenciasChi(decimal[] fo, decimal[] fe, decimal[] desde, decimal[] hasta)
+        //    double probabilidadLimSup = Normal.CDF(media, desviacion, LimSuperior);
+        //    double probabilidadLimInf = Normal.CDF(media, desviacion, LimInferior);
+
+        //    return (probabilidadLimSup - probabilidadLimInf) * (n);
+        //}
+
+    
+
+    //private double CalculoFrecuenciaEsperada(double LimSuperior, double LimInferior, double n)
+    //{
+    //    // Convertir listaLocal a double si es necesario
+    //    var listaLocalDouble = listaLocal.Select(x => Convert.ToDouble(x)).ToList();
+
+    //    // Calcular media y desviación estándar
+    //    double media = listaLocalDouble.Average();
+    //    double desviacion = StandardDeviation(listaLocalDouble);
+
+    //    // Calcular probabilidades usando MathNet.Numerics
+    //    double probabilidadLimSup = Normal.CDF(media, desviacion, LimSuperior);
+    //    double probabilidadLimInf = Normal.CDF(media, desviacion, LimInferior);
+
+    //    return (probabilidadLimSup - probabilidadLimInf) * n;
+    //}
+
+    // Método para calcular la desviación estándar
+    private double StandardDeviation(List<double> values)
+    {
+        double avg = values.Average();
+        return Math.Sqrt(values.Average(v => Math.Pow(v - avg, 2)));
+    }
+
+    private void CargarFrecuenciasChi(decimal[] fo, decimal[] fe, decimal[] desde, decimal[] hasta)
         {
             decimal sumC = 0;
             for (int i = 0; i < fo.Length; i++)

@@ -22,15 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -40,10 +36,14 @@
               "RelativeDocumentMoniker": "Formularios\\TestChiYKS.cs",
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\TestChiYKS.cs*",
               "RelativeToolTip": "Formularios\\TestChiYKS.cs*",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAAAPEAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:17:29.824Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\PruebasTXT.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\PruebasTXT.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:03:35.643Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-05T04:03:35.643Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T04:03:01.285Z"
             }

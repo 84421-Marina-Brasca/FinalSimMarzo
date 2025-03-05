@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TP3 proyecto.exe" size="1369600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TP3 proyecto.exe" size="1370112">
       <assemblyIdentity name="TP3 proyecto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>63L0CW5X5bfPTf9xk1AlSrkCayld7tyICVZR05f6x90=</dsig:DigestValue>
+        <dsig:DigestValue>BiwWA1IeszL5zuWIo017C4ewACFgDfkjyd448uhghZg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

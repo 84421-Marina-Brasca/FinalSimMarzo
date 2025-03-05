@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|c:\\users\\marina constanza\\documents\\github\\finalsimmarzo\\ejercicio1final\\formularios\\testchiyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:formularios\\testchiyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\formularios\\pruebastxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:formularios\\pruebastxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|c:\\users\\marina constanza\\documents\\github\\finalsimmarzo\\ejercicio1final\\formularios\\testchiyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:formularios\\testchiyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E782E2-E875-4B79-9090-AE43E73AFF13}|Ejercicio1Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TestChiYKS.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\TestChiYKS.cs",
               "RelativeDocumentMoniker": "Formularios\\TestChiYKS.cs",
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\TestChiYKS.cs",
               "RelativeToolTip": "Formularios\\TestChiYKS.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:17:29.824Z",
               "EditorCaption": ""
@@ -54,21 +54,19 @@
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Formularios\\PruebasTXT.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formularios\\PruebasTXT.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:03:35.643Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-05T04:03:35.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Marina Constanza\\Documents\\GitHub\\FinalSimMarzo\\Ejercicio1Final\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:03:01.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:03:01.285Z"
             }
           ]
         }
