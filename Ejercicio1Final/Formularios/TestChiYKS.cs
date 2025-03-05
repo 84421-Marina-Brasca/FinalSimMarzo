@@ -34,7 +34,7 @@ namespace Ejercicio1Final.Formularios
                 dgvSerie.Rows.Add(listaLocal[i]);
 
             }
-            //????
+ 
 
         }
 
@@ -121,6 +121,7 @@ namespace Ejercicio1Final.Formularios
 
             if (distribucionLocal == 0)
             {
+
                 decimal suma = 0;
                 for (int j = 0; j < n; j++)
                     suma += listaLocal[j];
@@ -205,20 +206,43 @@ namespace Ejercicio1Final.Formularios
 
         private void CargarFrecuenciasKS(decimal[] fo, decimal[] fe, decimal[] desde, decimal[] hasta)
         {
-            var n = fo.Sum();
+            //var n = fo.Sum();
+            int n = listaLocal.Length;
             decimal PoAc = 0;
             decimal PeAc = 0;
             decimal MaxKS = -1;
+            //decimal media = listaLocal.Average();
+            decimal desviacion = parametro;
+            decimal Pe = 0;
 
+            decimal suma = 0;
+            for (int j = 0; j < n; j++)
+                suma += listaLocal[j];
+
+            decimal media = suma / n;
 
             decimal sumC = 0;
             for (int i = 0; i < fo.Length; i++)
             {
+
+
                 var Po = fo[i] / n;
                 PoAc += Po;
-                var Pe = fe[i] / n;
-                PeAc += Pe;
+                if (distribucionLocal == 0) // Distribucion Normal
+                {
+                    decimal anchoIntervalo =  hasta[i] - desde[i];
+                    //calculo la prob esperada
+                    var e = ((-0.5) * Math.Pow((double)(((anchoIntervalo/2) - media) / parametro), 2));
+                    Pe = (decimal) ((Math.Exp(e) / ((double) parametro * Math.Sqrt(2 * Math.PI))) * (double) anchoIntervalo);
+                    PeAc += Pe;
 
+                }
+
+                else
+                {
+                    Pe = fe[i] / n;
+                    PeAc += Pe;
+                }
                 var KS = Math.Abs(PoAc - PeAc);
                 if (KS > MaxKS)
                     MaxKS = KS;

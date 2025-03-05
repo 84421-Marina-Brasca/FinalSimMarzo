@@ -43,6 +43,6 @@ C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Deb
 C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.csproj.CoreCompileInputs.cache
 C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.exe.manifest
 C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.application
-C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.csproj.CopyComplete
 C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.exe
 C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.pdb
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercici.7C29B8BA.Up2Date
