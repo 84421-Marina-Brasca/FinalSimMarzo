@@ -1,0 +1,48 @@
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Formularios.Grafico.resources
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Form1.resources
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Formularios.Normal.resources
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Formularios.TestChiYKS.resources
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Formularios.Uniforme.resources
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Properties.Resources.resources
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.csproj.GenerateResource.cache
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.csproj.CoreCompileInputs.cache
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.exe
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.pdb
+D:\Facultad\4 año\SIM\TP3\bin\Debug\TP3 proyecto.exe.config
+D:\Facultad\4 año\SIM\TP3\bin\Debug\TP3 proyecto.exe.manifest
+D:\Facultad\4 año\SIM\TP3\bin\Debug\TP3 proyecto.application
+D:\Facultad\4 año\SIM\TP3\bin\Debug\TP3 proyecto.exe
+D:\Facultad\4 año\SIM\TP3\bin\Debug\TP3 proyecto.pdb
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.exe.manifest
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.application
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.csproj.AssemblyReference.cache
+D:\Facultad\4 año\SIM\TP3\bin\Debug\MathNet.Numerics.dll
+D:\Facultad\4 año\SIM\TP3\bin\Debug\System.ValueTuple.dll
+D:\Facultad\4 año\SIM\TP3\bin\Debug\MathNet.Numerics.xml
+D:\Facultad\4 año\SIM\TP3\bin\Debug\System.ValueTuple.xml
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3 proyecto.csproj.CopyComplete
+D:\Facultad\4 año\SIM\TP3\obj\Debug\TP3_proyecto.Formularios.PruebasTXT.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.exe.config
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.exe.manifest
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.application
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.exe
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.pdb
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\System.ValueTuple.dll
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\MathNet.Numerics.xml
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\System.ValueTuple.xml
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.csproj.AssemblyReference.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Formularios.Grafico.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Form1.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Formularios.Normal.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Formularios.PruebasTXT.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Formularios.TestChiYKS.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Formularios.Uniforme.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Properties.Resources.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.csproj.GenerateResource.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.exe.manifest
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.application
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proy.96D342BC.Up2Date
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.exe
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.pdb

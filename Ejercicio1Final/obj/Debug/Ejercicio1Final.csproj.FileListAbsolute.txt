@@ -1,0 +1,48 @@
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.exe.config
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.exe.manifest
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.application
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.exe
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\TP3 proyecto.pdb
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\System.ValueTuple.dll
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\MathNet.Numerics.xml
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\bin\Debug\System.ValueTuple.xml
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.csproj.AssemblyReference.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.Formularios.Grafico.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.Form1.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.Formularios.Normal.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.Formularios.PruebasTXT.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.Formularios.TestChiYKS.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.Formularios.Uniforme.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3_proyecto.Properties.Resources.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.csproj.GenerateResource.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercicio1Final.csproj.CoreCompileInputs.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.exe.manifest
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.application
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\Ejercici.7C29B8BA.Up2Date
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.exe
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\TP3\obj\Debug\TP3 proyecto.pdb
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\TP3 proyecto.exe.config
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\TP3 proyecto.exe.manifest
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\TP3 proyecto.application
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\TP3 proyecto.exe
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\TP3 proyecto.pdb
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\MathNet.Numerics.dll
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\System.ValueTuple.dll
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\MathNet.Numerics.xml
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\bin\Debug\System.ValueTuple.xml
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.csproj.AssemblyReference.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.Formularios.Grafico.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.Form1.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.Formularios.Normal.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.Formularios.PruebasTXT.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.Formularios.TestChiYKS.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.Formularios.Uniforme.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3_proyecto.Properties.Resources.resources
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.csproj.GenerateResource.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.csproj.CoreCompileInputs.cache
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.exe.manifest
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.application
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\Ejercicio1Final.csproj.CopyComplete
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.exe
+C:\Users\Marina Constanza\Documents\GitHub\FinalSimMarzo\Ejercicio1Final\obj\Debug\TP3 proyecto.pdb
